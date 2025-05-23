@@ -1,0 +1,13 @@
+Superstore Sales Dashboard – Key Insights
+-----------------------------------------
+
+1. California recorded the highest sales among all U.S. states with a total of $457,687.63.
+
+2. The West region led all other regions in overall sales performance, indicating strong market presence.(IN GREEN BAR)
+
+3. The Technology category generated the most revenue, followed by Office Supplies and Furniture.
+
+4. Sales peaked in March and November 2014, based on monthly trends, highlighting strong seasonal demand.
+
+Bonus:
+- The South region showed the lowest performance, representing a growth opportunity.(IN RED BAR)
